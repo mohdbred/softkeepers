@@ -1,0 +1,12 @@
+{
+    "label": "Employee Custom Fields",
+    "menu": "Admin",
+    "order": "83",
+    "icon": "fa-sliders",
+    "user_levels": [
+        "Admin"
+    ],
+    "permissions": [],
+    "model_namespace": "\\FieldNames\\Common\\Model",
+    "manager": "\\FieldNames\\Admin\\Api\\FieldNamesAdminManager"
+}
